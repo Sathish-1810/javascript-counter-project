@@ -1,0 +1,32 @@
+.backgroudcontainer{
+    background-color: rgb(153, 125, 125);
+    background-size: cover;
+    height:100vh;
+}
+.counterheading{
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+.counter-value {
+    font-size:50px ;
+    font-weight:bold ;
+}
+.decrease{
+    color:black;
+    background-color: rgb(214, 6, 6);
+    border-style:none;
+    font-family: ;
+}
+.reset{
+    color:black;
+    background-color: rgb(143, 168, 19);
+    border-style:none;
+    font-family: ;
+}
+.Increase{
+    color:black;
+    background-color: rgb(58, 130, 212);
+    border-style:none;
+    font-family: ;
+}
